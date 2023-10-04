@@ -99,7 +99,7 @@ Character n-gram Models:
 - Achieved an accuracy of 69% on the test dataset.
 
 ## Results:
-- Achieved 69% accuracy with the Encoder-Decoder Architecture using Bahadanau's Attention Mechanism.
+- By training for just over 15 epochs (approx 80 seconds per epoch), achieved 69% accuracy with the Encoder-Decoder Architecture using Bahadanau's Attention Mechanism on the Mixed Code Dataset of Hinglish Hate Speech Tweets
 
 ## Contact
 - Connect with the project creator:
