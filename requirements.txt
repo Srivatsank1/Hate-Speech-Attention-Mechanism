@@ -1,0 +1,16 @@
+warnings
+shutil
+glob
+tqdm
+string
+os
+numpy
+nltk
+pandas
+gensim
+matplotlib
+wordcloud
+keras
+tensorflow
+tensorflow_hub
+sklearn
