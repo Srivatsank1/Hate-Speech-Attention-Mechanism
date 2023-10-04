@@ -13,17 +13,10 @@ pip install -r requirements.txt
 
 ## Python Packages Used
 In this section, I include all the necessary dependencies needed to reproduce the project, so that the reader can install them before replicating the project. I categorize the long list of packages used as - 
-- **General Purpose:** `os, shutil, glob, tqdm, IPython`
-- **Data Manipulation:** `numpy, PIL, imageio, music21`
-- **Data Visualization:** `matplotlib`
-- **Machine Learning:** `keras, tensorflow`
-
-## Installation
-### Prerequisites
-> **Make sure you have the following prerequisites installed:**
-- **music21**
-- **fluidsynth**
-- You can install them using the following commands:
+- **General Purpose:** `warnings, shutil, glob, tqdm, string, os`
+- **Data Manipulation:** `numpy, nlkt, pandas, gensim`
+- **Data Visualization:** `matplotlib, wordcloud`
+- **Machine Learning:** `keras, tensorflow, tensorflow_hub, sklearn`
 
 ## Dataset and Preprocessing
 - **Dataset Characteristics:**
