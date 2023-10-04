@@ -1,4 +1,4 @@
-# Hate Speech Detection using Attention Mechanisms on Hinglish Tweets
+# Hate Speech Detection using Attention Mechanisms on Hinglish Mixed Code Data
 
 # **Project Overview**
 This project focuses on Hate Speech Detection in Hinglish Tweets, a fusion of English and Hindi. Leveraging Bahadanau's attention mechanism in Transformer Models and also applying various embeddings, including Word2Vec, Doc2Vec, FastText on various Classical Machine Learning Algorithms and Deep Learning Models (CNN, LSTM, RNN, Bi-LSTM), the goal is to create robust models for identifying hate speech in a linguistically diverse dataset.
